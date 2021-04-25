@@ -1,0 +1,37 @@
+body {
+    font-size: 15pt;
+}
+*{
+  margin: 0px;
+  padding: 0px;
+  
+}
+
+.hd{
+  text-align: center;
+  background: #3C3D4A;
+  color: whitesmoke;
+  padding: 10px;
+  
+}
+.text{
+  
+  background: #232431;
+  color: whitesmoke;
+  padding: 10px;
+}
+.dwn{
+  background: #85A37B;
+  color: whitesmoke;
+  padding: 10px;
+  text-align: center;
+  border: solid 1px #373D35;
+  border-radius: 10px;
+  margin: 20%;
+}
+.dwn:hover{
+  background: #3FE904;
+}
+a{
+  outline: none;
+}
